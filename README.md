@@ -1,4 +1,4 @@
-## Hi, I’m Álvaro Fernández <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m Álvaro Fernández Serna <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 **Data Analyst | Based in Madrid | Open to work**
 
 <p align="center">
